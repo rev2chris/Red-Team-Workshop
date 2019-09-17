@@ -2,7 +2,7 @@ Red Team Library
 ======
 Links to books, blogs, videos, etc for red team operations.
 
-Videos
+**Videos**
 ======
 Red Team Methodology A Naked Look Jason Lang  
 

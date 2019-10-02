@@ -3,7 +3,7 @@ Red Team Workshop
 Links to resources for full red team digital operations.
 
 ## Table of Contents
-- [GENERAL/METHODOLOGY](##general/methodology) 
+- [GENERAL/METHODOLOGY](#general/methodology) 
 - [C2 INFRASTRUCTURE] 
   - [COBALT STRIKE]
   - [REDIRECTORS]
@@ -12,9 +12,9 @@ Links to resources for full red team digital operations.
 - [INITIAL ACCESS]
   - PHISHING
 - [DOMAINS]
-- [TRAINING](##training)
+- [TRAINING](#training)
 
-## GENERAL/METHODOLOGY
+# GENERAL/METHODOLOGY
 * [Red Team Methodology A Naked Look Jason Lang](https://www.youtube.com/watch?v=kf829-tm0VM)
 * [Top Five Ways the Red Team Breached the External Perimeter](https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17)
 * [Red Teams](https://medium.com/starting-up-security/red-teams-6faa8d95f602)
@@ -39,7 +39,7 @@ Links to resources for full red team digital operations.
 * [SpecterOps](https://posts.specterops.io/)
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
-## TRAINING
+# TRAINING
 * [Cobalt Strike](https://www.cobaltstrike.com/training)
 * [SpecterOps Red Team Operations](https://www.specterops.io/how-we-help/training-offerings/adversary-tactics-red-team-operations)
 * [Intrustion Operations](https://www.fortynorthsecurity.com/services/red-team-training/)

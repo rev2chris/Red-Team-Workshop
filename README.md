@@ -4,7 +4,8 @@ Links to resources for full red team digital operations.
 
 ## Table of Contents
 - [GENERAL/METHODOLOGY](#general/methodology) 
-- [C2 INFRASTRUCTURE](#c2 infrastructure)
+- [C2 INFRASTRUCTURE](#C2 infrastructure)
+
   - [COBALT STRIKE]
   - [REDIRECTORS]
   - [AUTOMATION]

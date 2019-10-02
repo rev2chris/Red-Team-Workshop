@@ -3,8 +3,7 @@ Red Team Workshop
 Links to resources for full red team digital operations.
 
 ## Table of Contents
-- [GENERAL] 
-  - [METHODOLOGY] 
+- [GENERAL/METHODOLOGY] 
 - [C2 INFRASTRUCTURE] 
   - [COBALT STRIKE]
   - [REDIRECTORS]
@@ -14,7 +13,7 @@ Links to resources for full red team digital operations.
   - PHISHING
 - [DOMAINS]
 
-## General
+## GENERAL/METHODOLOGY
 * [Red Team Methodology A Naked Look Jason Lang](https://www.youtube.com/watch?v=kf829-tm0VM)
 
 ## C2 INFRASTRUCTURE

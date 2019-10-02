@@ -16,14 +16,18 @@ Links to resources for full red team digital operations.
 
 * General
 
+# C2 INFRASTRUCTURE
+
 **Videos**
 ======
-Red Team Methodology A Naked Look Jason Lang  
-
-https://www.youtube.com/watch?v=kf829-tm0VM
+* [Red Team Methodology A Naked Look Jason Lang](https://www.youtube.com/watch?v=kf829-tm0VM)
 
 Blogs
 ======
 
-Cheatsheets
-======
+## RESOURCES
+* [Threat Express](https://threatexpress.com/)
+* [Blue Screen of Jeff](https://bluescreenofjeff.com/)
+* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
+
+

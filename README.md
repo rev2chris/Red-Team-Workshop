@@ -12,6 +12,7 @@ Links to resources for full red team digital operations.
 - [INITIAL ACCESS]
   - PHISHING
 - [DOMAINS]
+- [TRAINING](##training)
 
 ## GENERAL/METHODOLOGY
 * [Red Team Methodology A Naked Look Jason Lang](https://www.youtube.com/watch?v=kf829-tm0VM)

@@ -1,6 +1,20 @@
-Red Team Library
+Red Team Workshop
 ======
-Links to books, blogs, videos, etc for red team operations.
+Links to resources for full red team digital operations.
+
+## Table of Contents
+- [GENERAL] 
+  - [METHODOLOGY] 
+- [C2 INFRASTRUCTURE] 
+  - [COBALT STRIKE]
+  - [REDIRECTORS]
+  - [AUTOMATION]
+- [OSINT/RECON]
+- [INITIAL ACCESS]
+  - PHISHING
+- [DOMAINS]
+
+* General
 
 **Videos**
 ======

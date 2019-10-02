@@ -3,7 +3,7 @@ Red Team Workshop
 Links to resources for full red team digital operations.
 
 ## Table of Contents
-- [GENERAL/METHODOLOGY] 
+- [GENERAL/METHODOLOGY](##general/methodology) 
 - [C2 INFRASTRUCTURE] 
   - [COBALT STRIKE]
   - [REDIRECTORS]

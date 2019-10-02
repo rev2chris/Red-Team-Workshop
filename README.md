@@ -4,7 +4,7 @@ Links to resources for full red team digital operations.
 
 ## Table of Contents
 - [GENERAL/METHODOLOGY](#general/methodology) 
-- [C2 INFRASTRUCTURE] 
+- [C2 INFRASTRUCTURE](#c2 infrastructure)
   - [COBALT STRIKE]
   - [REDIRECTORS]
   - [AUTOMATION]
@@ -12,6 +12,7 @@ Links to resources for full red team digital operations.
 - [INITIAL ACCESS]
   - PHISHING
 - [DOMAINS]
+- [RESOURCES](#resources)
 - [TRAINING](#training)
 
 # GENERAL/METHODOLOGY
@@ -21,14 +22,14 @@ Links to resources for full red team digital operations.
 
 
 
-## C2 INFRASTRUCTURE
+# C2 INFRASTRUCTURE
 * [Red Team Infrastructure](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#domains)
 * [Safe Red Team Inrastructure](https://medium.com/@malcomvetter/safe-red-team-infrastructure-c5d6a0f13fac)
 * [How to Build a C2 Infrastructure with Digital Ocean - Part 1](https://www.blackhillsinfosec.com/build-c2-infrastructure-digital-ocean-part-1/)
 * [How to Build a Command & Control Infrastructure with Digital Ocean: C2K Revamped](https://www.blackhillsinfosec.com/how-to-build-a-command-control-infrastructure-with-digital-ocean-c2k-revamped/)
 * [iRed Red Team Infrastructure](https://ired.team/offensive-security/red-team-infrastructure)
 
-## RESOURCES
+# RESOURCES
 * [Threat Express](https://threatexpress.com/)
 * [Blue Screen of Jeff](https://bluescreenofjeff.com/)
 * [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
